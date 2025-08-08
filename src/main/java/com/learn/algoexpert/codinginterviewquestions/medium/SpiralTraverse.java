@@ -42,8 +42,4 @@ public class SpiralTraverse {
         }
         return result;
     }
-
-    public static void main(String[] args) {
-        solution(new int[][] {{1, 2, 3}, {12, 13, 4}, {11, 14, 5}, {10, 15, 6}, {9, 8, 7}});
-    }
 }
