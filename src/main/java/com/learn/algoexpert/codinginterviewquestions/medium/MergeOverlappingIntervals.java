@@ -24,9 +24,4 @@ public class MergeOverlappingIntervals {
         }
         return result.toArray(new int[result.size()][]);
     }
-
-    public static void main(String[] args) {
-        int[][] intervals = new int[][] {{1, 2}, {9, 10}, {3, 5}, {6, 8}, {4, 7}};
-        solution(intervals);
-    }
 }
