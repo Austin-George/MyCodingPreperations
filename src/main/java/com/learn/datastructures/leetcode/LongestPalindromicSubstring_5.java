@@ -37,8 +37,4 @@ public class LongestPalindromicSubstring_5 {
         }
         return palindrome;
     }
-
-    public static void main(String[] args) {
-        System.out.println(solution("banananas"));
-    }
 }
